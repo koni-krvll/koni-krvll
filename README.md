@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Conrad
-<a href="https://www.linkedin.com/in/gerard-marquina-rubio">
+<h1 align="center">Hi 👋, I'm Conrad <br />
+<a href="https://www.linkedin.com/in/conrad-matschke">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </h1>
