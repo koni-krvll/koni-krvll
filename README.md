@@ -1,3 +1,4 @@
+<div  width="900">
 <h1 align="center">Hi 👋, I'm Conrad <br />
 <a href="https://www.linkedin.com/in/conrad-matschke">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -7,7 +8,7 @@
 </a>
 </h1>
 
-<h6 align="justify" width="900">I am a Full Stack Software Developer with a firm scientific background in Industrial Engineering and Management working to design and create the next wave of product features and system capabilities. Examining existing systems, identifying flaws and refactoring them with beautiful, meticulous code are also among my passions. My expertise includes sprint-based project design and full-stack web development, as well as requirement specification and management. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My colleagues would describe me as a driven, resourceful individual who maintains a positive, proactive attitude when faced with adversity. Currently, I am seeking opportunities that will allow me to refine my knowledge working with the latest cutting edge software development tools and procedures. Specific fields of interest include, but not limited to IoT & IIoT, edge-computing, and mobile technologies.</h6>
+<h6 align="justify">I am a Full Stack Software Developer with a firm scientific background in Industrial Engineering and Management working to design and create the next wave of product features and system capabilities. Examining existing systems, identifying flaws and refactoring them with beautiful, meticulous code are also among my passions. My expertise includes sprint-based project design and full-stack web development, as well as requirement specification and management. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My colleagues would describe me as a driven, resourceful individual who maintains a positive, proactive attitude when faced with adversity. Currently, I am seeking opportunities that will allow me to refine my knowledge working with the latest cutting edge software development tools and procedures. Specific fields of interest include, but not limited to IoT & IIoT, edge-computing, and mobile technologies.</h6>
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="400"/>
@@ -55,4 +56,4 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
-  
+</div>  
