@@ -2,7 +2,7 @@
 <h5 align="justify">I am a Full Stack Software Developer with a firm scientific background in Industrial Engineering and Management working to design and create the next wave of product features and system capabilities. Examining existing systems, identifying flaws and refactoring them with beautiful, meticulous code are also among my passions. My expertise includes sprint-based project design and full-stack web development, as well as requirement specification and management. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My colleagues would describe me as a driven, resourceful individual who maintains a positive, proactive attitude when faced with adversity. Currently, I am seeking opportunities that will allow me to refine my knowledge working with the latest cutting edge software development tools and procedures. Specific fields of interest include, but not limited to IoT & IIoT, edge-computing, and mobile technologies.</h5>
 
 
-<div display="flex">
+<div style="display: flex">
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
