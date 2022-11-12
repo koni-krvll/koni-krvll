@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Berlin, Germany</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   
 </div>
 
