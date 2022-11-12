@@ -3,6 +3,7 @@
 
 
 <div class="box">
+.box { float: left; width: 32%; margin-right: 2%; padding: 20px; background: #eee; box-sizing: border-box; }  
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
