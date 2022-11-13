@@ -3,7 +3,8 @@
 <a href="https://www.linkedin.com/in/conrad-matschke">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/conrad-matschke">
+   
+<a href="https://github.com/koni-krvll/koni-krvll/files/9998120/CV_ConradMatschke_2022.pdf">
     <img src="https://img.shields.io/badge/PDF-READ%20MY%20CV-orange?style=for-the-badge" />
 </a>
 </h1>
